@@ -1,0 +1,4 @@
+.idea/*
+/src/main/resources/stackoverflow/stackoverflow.csv
+*.iml
+*target*
